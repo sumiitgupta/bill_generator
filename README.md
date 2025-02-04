@@ -40,7 +40,7 @@ This project consists of a mobile app and a Java desktop app designed to streaml
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/navin280123/Online-Bill-Generator.git
+    git clone https://github.com/sumiitgupta/bill_generator.git
     ```
 
 2. **Navigate to the project directory**:
@@ -55,7 +55,7 @@ This project consists of a mobile app and a Java desktop app designed to streaml
 
 ### Setting Up the Mobile App
 
-1. For mobile Application Move to this Repository ----------> (https://github.com/navin280123/Online-Bill-Generator-App)
+1. For mobile Application Move to this Repository ----------> (https://github.com/sumiitgupta/bill_generator.git)
 
 ### Setting Up the Desktop App
 
